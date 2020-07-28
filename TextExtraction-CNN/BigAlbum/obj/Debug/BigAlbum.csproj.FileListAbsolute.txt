@@ -1,0 +1,9 @@
+G:\Download\test2018\BigAlbum\BigAlbum\bin\Debug\BigAlbum.exe.config
+G:\Download\test2018\BigAlbum\BigAlbum\bin\Debug\BigAlbum.exe
+G:\Download\test2018\BigAlbum\BigAlbum\bin\Debug\BigAlbum.pdb
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.csprojResolveAssemblyReference.cache
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.Properties.Resources.resources
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.csproj.GenerateResource.Cache
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.exe
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.pdb
+G:\Download\test2018\BigAlbum\BigAlbum\obj\Debug\BigAlbum.Album.resources

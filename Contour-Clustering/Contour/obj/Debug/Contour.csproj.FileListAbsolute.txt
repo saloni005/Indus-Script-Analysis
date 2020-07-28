@@ -1,0 +1,10 @@
+A:\Indus\Contour\Contour\bin\Debug\Contour.exe.config
+A:\Indus\Contour\Contour\obj\Debug\Contour.Form1.resources
+A:\Indus\Contour\Contour\obj\Debug\Contour.Properties.Resources.resources
+A:\Indus\Contour\Contour\obj\Debug\Contour.csproj.GenerateResource.Cache
+A:\Indus\Contour\Contour\bin\Debug\Contour.exe
+A:\Indus\Contour\Contour\bin\Debug\Contour.pdb
+A:\Indus\Contour\Contour\obj\Debug\Contour.exe
+A:\Indus\Contour\Contour\obj\Debug\Contour.pdb
+A:\Indus\Contour\Contour\obj\Debug\Contour.output.resources
+A:\Indus\Contour\Contour\obj\Debug\Contour.csprojResolveAssemblyReference.cache
