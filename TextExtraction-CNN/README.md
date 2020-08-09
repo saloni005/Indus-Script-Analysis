@@ -1,8 +1,8 @@
 Text Extraction from seals, painting, coins, rocks or any anctient scriptures using the Convolution Neural Network
-<br/><br/><br/>
+<br/><br/>
 Input: Ancient Scripture images after intensity, size and color normalization <br/>
 Output: Digital printed text like OCR <br/>
-Algorithm used: CNN <br/><br/><br/>
+Algorithm used: CNN <br/>
 
 Training is divided into two phases: <br/>
 ->In the training NN Phase I, we used convolutions of 5 x 5 for all the input images and
